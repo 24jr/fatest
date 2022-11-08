@@ -1,0 +1,6 @@
+{
+  "appId": "com.fatest.app",
+  "appName": "fatest",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
